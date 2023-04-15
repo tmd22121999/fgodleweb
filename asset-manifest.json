@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fgodleweb/static/css/main.579d4db4.css",
-    "main.js": "/fgodleweb/static/js/main.f8af1f6d.js",
+    "main.js": "/fgodleweb/static/js/main.9d123b96.js",
     "static/js/787.ce73af93.chunk.js": "/fgodleweb/static/js/787.ce73af93.chunk.js",
     "static/media/Class-Caster-Gold.webp": "/fgodleweb/static/media/Class-Caster-Gold.6df87a5b996b502201e7.webp",
     "static/media/Class-Foreigner-Gold.webp": "/fgodleweb/static/media/Class-Foreigner-Gold.a850c9cf8441c7d1eef5.webp",
@@ -23,11 +23,11 @@
     "static/media/Artsicon.webp": "/fgodleweb/static/media/Artsicon.4a41aad6841b3d3f863a.webp",
     "index.html": "/fgodleweb/index.html",
     "main.579d4db4.css.map": "/fgodleweb/static/css/main.579d4db4.css.map",
-    "main.f8af1f6d.js.map": "/fgodleweb/static/js/main.f8af1f6d.js.map",
+    "main.9d123b96.js.map": "/fgodleweb/static/js/main.9d123b96.js.map",
     "787.ce73af93.chunk.js.map": "/fgodleweb/static/js/787.ce73af93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.579d4db4.css",
-    "static/js/main.f8af1f6d.js"
+    "static/js/main.9d123b96.js"
   ]
 }
