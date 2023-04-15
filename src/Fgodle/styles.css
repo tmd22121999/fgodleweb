@@ -2,3 +2,29 @@
   margin: auto 100px auto 100px;
   padding-bottom: 100px;
 }
+.table{
+  margin: auto;
+  width: 100%;
+  margin-top: 1em;
+}
+td{
+  color: aliceblue;
+  border: 1px solid black;
+  line-height: 1.4em;
+  border-radius: 7px;
+  margin: 5px;
+}
+th{
+  color: aliceblue;
+  border: 1px solid black;
+  background-color: '#fffff';
+  line-height: 1.4em;
+  border-radius: 7px;
+  padding: 10px;
+}
+tbody:before {
+  content:"@";
+  display:block;
+  line-height:10px;
+  text-indent:-99999px;
+}
