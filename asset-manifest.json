@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fgodle/static/css/main.579d4db4.css",
+    "main.js": "/fgodle/static/js/main.752daf4b.js",
+    "static/js/787.ce73af93.chunk.js": "/fgodle/static/js/787.ce73af93.chunk.js",
+    "static/media/Class-Caster-Gold.webp": "/fgodle/static/media/Class-Caster-Gold.6df87a5b996b502201e7.webp",
+    "static/media/Class-Foreigner-Gold.webp": "/fgodle/static/media/Class-Foreigner-Gold.a850c9cf8441c7d1eef5.webp",
+    "static/media/Class-Pretender-Gold.webp": "/fgodle/static/media/Class-Pretender-Gold.39f22cf751807efe6ca6.webp",
+    "static/media/Class-Lancer-Gold.webp": "/fgodle/static/media/Class-Lancer-Gold.003b82880a56de60232c.webp",
+    "static/media/Class-Ruler-Gold.webp": "/fgodle/static/media/Class-Ruler-Gold.acf8b67146232498a7fb.webp",
+    "static/media/Class-Berserker-Gold.webp": "/fgodle/static/media/Class-Berserker-Gold.accd9f173b8961ee1dcb.webp",
+    "static/media/Class-MoonCancer-Gold.webp": "/fgodle/static/media/Class-MoonCancer-Gold.09c3f258fb4aa4f2091f.webp",
+    "static/media/Class-Archer-Gold.webp": "/fgodle/static/media/Class-Archer-Gold.826921125a3b86b1e3c8.webp",
+    "static/media/Class-Avenger-Gold.webp": "/fgodle/static/media/Class-Avenger-Gold.7fe93da5a9094d7fbb04.webp",
+    "static/media/Class-Alterego-Gold.webp": "/fgodle/static/media/Class-Alterego-Gold.77a2d257db7fa1441839.webp",
+    "static/media/Class-Rider-Gold.webp": "/fgodle/static/media/Class-Rider-Gold.2bef5d9788ece7f9f4a4.webp",
+    "static/media/Class-Shielder-Gold.webp": "/fgodle/static/media/Class-Shielder-Gold.a6de9b361fb298c2b861.webp",
+    "static/media/Class-Assassin-Gold.webp": "/fgodle/static/media/Class-Assassin-Gold.3a8df1752956fbb8c87c.webp",
+    "static/media/Class-Saber-Gold.webp": "/fgodle/static/media/Class-Saber-Gold.8eb160ba5784abed26ec.webp",
+    "static/media/Class-Beast.webp": "/fgodle/static/media/Class-Beast.a647e44b2106012148b2.webp",
+    "static/media/Bustericon.webp": "/fgodle/static/media/Bustericon.26f60a5850b8a0f6dad1.webp",
+    "static/media/Quickicon.webp": "/fgodle/static/media/Quickicon.2bbc4b3245bfeedbefc5.webp",
+    "static/media/Artsicon.webp": "/fgodle/static/media/Artsicon.4a41aad6841b3d3f863a.webp",
+    "index.html": "/fgodle/index.html",
+    "main.579d4db4.css.map": "/fgodle/static/css/main.579d4db4.css.map",
+    "main.752daf4b.js.map": "/fgodle/static/js/main.752daf4b.js.map",
+    "787.ce73af93.chunk.js.map": "/fgodle/static/js/787.ce73af93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579d4db4.css",
+    "static/js/main.752daf4b.js"
+  ]
+}
