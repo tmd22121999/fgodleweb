@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/fgodleweb/static/css/main.579d4db4.css",
-    "main.js": "/fgodleweb/static/js/main.9d123b96.js",
+    "main.css": "/fgodleweb/static/css/main.8f585547.css",
+    "main.js": "/fgodleweb/static/js/main.96d4cfd2.js",
     "static/js/787.ce73af93.chunk.js": "/fgodleweb/static/js/787.ce73af93.chunk.js",
+    "static/media/background.webp": "/fgodleweb/static/media/background.05b14b90bc46e7ebf9de.webp",
     "static/media/Class-Caster-Gold.webp": "/fgodleweb/static/media/Class-Caster-Gold.6df87a5b996b502201e7.webp",
     "static/media/Class-Foreigner-Gold.webp": "/fgodleweb/static/media/Class-Foreigner-Gold.a850c9cf8441c7d1eef5.webp",
     "static/media/Class-Pretender-Gold.webp": "/fgodleweb/static/media/Class-Pretender-Gold.39f22cf751807efe6ca6.webp",
@@ -18,16 +19,21 @@
     "static/media/Class-Assassin-Gold.webp": "/fgodleweb/static/media/Class-Assassin-Gold.3a8df1752956fbb8c87c.webp",
     "static/media/Class-Saber-Gold.webp": "/fgodleweb/static/media/Class-Saber-Gold.8eb160ba5784abed26ec.webp",
     "static/media/Class-Beast.webp": "/fgodleweb/static/media/Class-Beast.a647e44b2106012148b2.webp",
+    "static/media/Icon_rarity_5.webp": "/fgodleweb/static/media/Icon_rarity_5.f1ae95928f33ff75533a.webp",
+    "static/media/Icon_rarity_4.webp": "/fgodleweb/static/media/Icon_rarity_4.fcf372928d74b5dd7085.webp",
+    "static/media/Icon_rarity_3.webp": "/fgodleweb/static/media/Icon_rarity_3.40eb2c78247d2f4c225e.webp",
+    "static/media/Icon_rarity_2.webp": "/fgodleweb/static/media/Icon_rarity_2.a12576fd8e1730dbe118.webp",
+    "static/media/Icon_rarity_1.webp": "/fgodleweb/static/media/Icon_rarity_1.07ce899db7bfc1966721.webp",
     "static/media/Bustericon.webp": "/fgodleweb/static/media/Bustericon.26f60a5850b8a0f6dad1.webp",
     "static/media/Quickicon.webp": "/fgodleweb/static/media/Quickicon.2bbc4b3245bfeedbefc5.webp",
     "static/media/Artsicon.webp": "/fgodleweb/static/media/Artsicon.4a41aad6841b3d3f863a.webp",
     "index.html": "/fgodleweb/index.html",
-    "main.579d4db4.css.map": "/fgodleweb/static/css/main.579d4db4.css.map",
-    "main.9d123b96.js.map": "/fgodleweb/static/js/main.9d123b96.js.map",
+    "main.8f585547.css.map": "/fgodleweb/static/css/main.8f585547.css.map",
+    "main.96d4cfd2.js.map": "/fgodleweb/static/js/main.96d4cfd2.js.map",
     "787.ce73af93.chunk.js.map": "/fgodleweb/static/js/787.ce73af93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.579d4db4.css",
-    "static/js/main.9d123b96.js"
+    "static/css/main.8f585547.css",
+    "static/js/main.96d4cfd2.js"
   ]
 }
