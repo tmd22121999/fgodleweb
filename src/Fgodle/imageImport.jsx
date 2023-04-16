@@ -18,6 +18,12 @@ import artCard from "../asset/card/Artsicon.webp"
 import quickCard from "../asset/card/Quickicon.webp"
 import busterCard from "../asset/card/Bustericon.webp"
 
+import Star1 from "../asset/rarity/Icon_rarity_1.webp"
+import Star2 from "../asset/rarity/Icon_rarity_2.webp"
+import Star3 from "../asset/rarity/Icon_rarity_3.webp"
+import Star4 from "../asset/rarity/Icon_rarity_4.webp"
+import Star5 from "../asset/rarity/Icon_rarity_5.webp"
+
 
 const classImage={
     "saber":saberClass,
@@ -41,5 +47,6 @@ const cardImage={
     "quick":quickCard,
     "buster":busterCard
 }
+const rarityImage=[Star1,Star1,Star2,Star3,Star4,Star5]
 
-export {classImage,cardImage}
+export {classImage,cardImage,rarityImage}

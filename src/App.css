@@ -32,7 +32,15 @@
   background-color: #282c34;
   min-height:100vh;
 }
-
+body{
+  background-color: #282c34;
+  background-attachment: fixed;
+  /* position: fixed; */
+  background-image: url('/public/background.webp');
+  background-size: 1920px 1080px;
+  background-position: 50% 50%;;
+  background-repeat: no-repeat;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
