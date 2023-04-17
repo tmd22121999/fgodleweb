@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fgodleweb/static/css/main.8f585547.css",
-    "main.js": "/fgodleweb/static/js/main.96d4cfd2.js",
+    "main.js": "/fgodleweb/static/js/main.fb2832cf.js",
     "static/js/787.ce73af93.chunk.js": "/fgodleweb/static/js/787.ce73af93.chunk.js",
     "static/media/background.webp": "/fgodleweb/static/media/background.05b14b90bc46e7ebf9de.webp",
     "static/media/Class-Caster-Gold.webp": "/fgodleweb/static/media/Class-Caster-Gold.6df87a5b996b502201e7.webp",
@@ -29,11 +29,11 @@
     "static/media/Artsicon.webp": "/fgodleweb/static/media/Artsicon.4a41aad6841b3d3f863a.webp",
     "index.html": "/fgodleweb/index.html",
     "main.8f585547.css.map": "/fgodleweb/static/css/main.8f585547.css.map",
-    "main.96d4cfd2.js.map": "/fgodleweb/static/js/main.96d4cfd2.js.map",
+    "main.fb2832cf.js.map": "/fgodleweb/static/js/main.fb2832cf.js.map",
     "787.ce73af93.chunk.js.map": "/fgodleweb/static/js/787.ce73af93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f585547.css",
-    "static/js/main.96d4cfd2.js"
+    "static/js/main.fb2832cf.js"
   ]
 }
